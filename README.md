@@ -7,6 +7,7 @@
 > **Asi se veria mi web**
 ![**Asi se veria la web**](readme.jpg)
 
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 |1. Una vez tengamos el enlace de un directorio de github lo primero que haremos sera darle a crear un nuevo directorio.|
 |2. Una vez en la creacion del directorio le daremos a importar un directorio. Y pondremos la direccion que tengamos lista para usar.|
 |3. Por ultimo tendremos que esperar a que se nos acabe de instalar el directorio importado y le daremos a ir al clone.|
